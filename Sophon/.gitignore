@@ -1,0 +1,40 @@
+# Rider-specific
+.idea/
+*.sln.iml
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+out/
+Generated/
+
+# ASP.NET
+appsettings.*.json
+appsettings.Development.json
+
+# Docker
+*.pid
+*.log
+docker-compose.override.yml
+
+# Logs
+*.log
+logs/
+*.tlog
+
+# VS Code (if you ever peek back)
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Aspire artifacts
+**/artifacts/
+**/Generated/
