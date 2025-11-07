@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sophon.AppHost", "Sophon.AppHost\Sophon.AppHost.csproj", "{54D94F38-8662-412F-8D0F-C1DD61219E82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sophon.ServiceDefaults", "Sophon.ServiceDefaults\Sophon.ServiceDefaults.csproj", "{394E815A-82AA-41F7-B23F-DC00F708BCC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54D94F38-8662-412F-8D0F-C1DD61219E82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54D94F38-8662-412F-8D0F-C1DD61219E82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54D94F38-8662-412F-8D0F-C1DD61219E82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54D94F38-8662-412F-8D0F-C1DD61219E82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{394E815A-82AA-41F7-B23F-DC00F708BCC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{394E815A-82AA-41F7-B23F-DC00F708BCC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{394E815A-82AA-41F7-B23F-DC00F708BCC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{394E815A-82AA-41F7-B23F-DC00F708BCC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
