@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sophon.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1113c95f52b18a5b0eaed7bc3b2931bb4284277")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6954a3ea08f9665fb0964f713c5a41babd8787ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sophon.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sophon.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

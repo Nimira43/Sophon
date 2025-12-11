@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sophon.AppHost", "Sophon.Ap
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sophon.ServiceDefaults", "Sophon.ServiceDefaults\Sophon.ServiceDefaults.csproj", "{394E815A-82AA-41F7-B23F-DC00F708BCC3}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "services", "services", "{F50AE1B9-5583-4634-A276-06F489678E9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuestionService", "QuestionService\QuestionService.csproj", "{6284FB2C-C61C-4BB9-97CC-354F9E35BFD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,12 @@ Global
 		{394E815A-82AA-41F7-B23F-DC00F708BCC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{394E815A-82AA-41F7-B23F-DC00F708BCC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{394E815A-82AA-41F7-B23F-DC00F708BCC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6284FB2C-C61C-4BB9-97CC-354F9E35BFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6284FB2C-C61C-4BB9-97CC-354F9E35BFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6284FB2C-C61C-4BB9-97CC-354F9E35BFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6284FB2C-C61C-4BB9-97CC-354F9E35BFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6284FB2C-C61C-4BB9-97CC-354F9E35BFD0} = {F50AE1B9-5583-4634-A276-06F489678E9C}
 	EndGlobalSection
 EndGlobal
