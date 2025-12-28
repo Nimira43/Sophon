@@ -27,7 +27,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sophon.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+359a056be456c9a2ffab0cb08b82d8626c7fb933")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8633b55795f1dd1ae70c6a73e39838204dd37bd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sophon.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sophon.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
